@@ -1,6 +1,6 @@
-# Fabric Example Mod
+# Epic Horse Breed
 
-A fabric mod that improves horse breeding mechanics with linear math.
+A fabric mod that improves minecraft horse breeding mechanics with linear math.
 
 The minimum and maximum achievable horse stats are the same as vanilla. 
 <details>
